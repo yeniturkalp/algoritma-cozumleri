@@ -3,13 +3,13 @@ Bu alan; Algoritma sorularının hem Akış Diyagramları(FlowChart) ve Python k
 
 GÜNCEL ALGORİTMALAR
 
-1: Klavyeden Girilen İki Sayı Üzerinde Aritmetik İşlemler Gerçekleştirmek
-2: Klavyeden Girilen 2 Sayının Toplamının Karesinin ve Küpünün Bulunması
-3: Girilen Saatlik Ücret ve Toplam Çalışma Saatine Göre Maaş Hesaplamak
-4: Kare Alanını ve Çevresini Hesaplamak
-5: Dikdörtgenin Alanını ve Çevresini Hesaplamak
-6: Girilen Sayı Değerini 10'dan Küçük, Büyük veya Eşit Olup Olmadığını Sorgulamak
-7: Öğrencinin Vize ve Final Notuna Göre Geçişini Hesaplamak
-8: Girilen İki Sayının En Küçüğünü ve En Büyüğünü Bulmak
-9: Girilen Sayının 15in Katı Olup Olmadığını Bulmak
-10: Girilen İki Sayının Birbirinin Katı Olup Olmadığını Bulmak
+#### 1: Klavyeden Girilen İki Sayı Üzerinde Aritmetik İşlemler Gerçekleştirmek
+#### 2: Klavyeden Girilen 2 Sayının Toplamının Karesinin ve Küpünün Bulunması
+#### 3: Girilen Saatlik Ücret ve Toplam Çalışma Saatine Göre Maaş Hesaplamak
+#### 4: Kare Alanını ve Çevresini Hesaplamak
+#### 5: Dikdörtgenin Alanını ve Çevresini Hesaplamak
+#### 6: Girilen Sayı Değerini 10'dan Küçük, Büyük veya Eşit Olup Olmadığını Sorgulamak
+#### 7: Öğrencinin Vize ve Final Notuna Göre Geçişini Hesaplamak
+#### 8: Girilen İki Sayının En Küçüğünü ve En Büyüğünü Bulmak
+#### 9: Girilen Sayının 15in Katı Olup Olmadığını Bulmak
+#### 10: Girilen İki Sayının Birbirinin Katı Olup Olmadığını Bulmak
