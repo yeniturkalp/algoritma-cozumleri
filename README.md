@@ -3,8 +3,8 @@ Bu alan; Algoritma sorularının hem Akış Diyagramları(FlowChart) ve Python k
 
 GÜNCEL ALGORİTMALAR
 
-###1: Klavyeden Girilen İki Sayı Üzerinde Aritmetik İşlemler Gerçekleştirmek
-###2: Klavyeden Girilen 2 Sayının Toplamının Karesinin ve Küpünün Bulunması
+1: Klavyeden Girilen İki Sayı Üzerinde Aritmetik İşlemler Gerçekleştirmek<br>
+2: Klavyeden Girilen 2 Sayının Toplamının Karesinin ve Küpünün Bulunması
 3: Girilen Saatlik Ücret ve Toplam Çalışma Saatine Göre Maaş Hesaplamak
 4: Kare Alanını ve Çevresini Hesaplamak
 5: Dikdörtgenin Alanını ve Çevresini Hesaplamak
