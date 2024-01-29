@@ -3,7 +3,7 @@ Bu alan; Algoritma sorularının hem Akış Diyagramları(FlowChart) ve Python k
 
 GÜNCEL ALGORİTMALAR
 
-1: Klavyeden Girilen İki Sayı Üzerinde Aritmetik İşlemler Gerçekleştirmek<br>
+<b>1: Klavyeden Girilen İki Sayı Üzerinde Aritmetik İşlemler Gerçekleştirmek<br></b>
 2: Klavyeden Girilen 2 Sayının Toplamının Karesinin ve Küpünün Bulunması<br>
 3: Girilen Saatlik Ücret ve Toplam Çalışma Saatine Göre Maaş Hesaplamak<br>
 4: Kare Alanını ve Çevresini Hesaplamak<br>
